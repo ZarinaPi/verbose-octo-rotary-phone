@@ -1,0 +1,6 @@
+﻿  Laba4.cpp
+C:\Users\zarin\OneDrive\Рабочий стол\1 курс\Программирование\Laba4\Laba4.cpp(13,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zarin\OneDrive\Рабочий стол\1 курс\Программирование\Laba4\Laba4.cpp(14,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\zarin\OneDrive\Рабочий стол\1 курс\Программирование\Laba4\Laba4.cpp(88,29): warning C4244: =: преобразование "wint_t" в "char", возможна потеря данных
+C:\Users\zarin\OneDrive\Рабочий стол\1 курс\Программирование\Laba4\Laba4.cpp(95,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Laba4.vcxproj -> C:\Users\zarin\OneDrive\Рабочий стол\1 курс\Программирование\Laba4\x64\Debug\Laba4.exe
